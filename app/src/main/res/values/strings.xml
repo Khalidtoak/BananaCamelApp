@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BananaCamelApp</string>
+    <string name="total_bananas">total bananas</string>
+    <string name="farm_to_market_distance">farm to market distance</string>
+    <string name="no_of_camel_s">no of camel(s)</string>
+    <string name="eats_per_km">eats per km</string>
+    <string name="k">K</string>
+    <string name="calculate">Calculate</string>
+    <string name="fill_in_these_details">Fill in these details</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="total_no_of_banana">total no. of banana</string>
+    <string name="banana_camel_app">Banana Camel App</string>
+</resources>
